@@ -1,0 +1,12 @@
+MANIFEST.in
+README.md
+requirements.txt
+setup.py
+conf/config.properties
+devops_monitor.egg-info/PKG-INFO
+devops_monitor.egg-info/SOURCES.txt
+devops_monitor.egg-info/dependency_links.txt
+devops_monitor.egg-info/requires.txt
+devops_monitor.egg-info/top_level.txt
+github/__init__.py
+github/github.py

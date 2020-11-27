@@ -1,0 +1,20 @@
+Metadata-Version: 1.0
+Name: devops-monitor
+Version: 1.0.0
+Summary: UNKNOWN
+Home-page: UNKNOWN
+Author: Jeff Wang
+Author-email: jeffwji@test.com
+License: UNKNOWN
+Description: Code repository monitor module provides Rest APIs for front end to fetch repository monitoring information.
+        
+        ### Github:
+        
+        * Commit activities
+        
+        ### Jira
+        
+        * Tickets information
+        
+        
+Platform: UNKNOWN
